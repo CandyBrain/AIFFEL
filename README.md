@@ -1,1 +1,4 @@
-# first-repository
+## AIFFEL
+
+### 이 곳은 AIFFEL 에서 공부한 자료들을 올리는 곳입니다.
+### 2021년 12월 27일 AIFFEL 강남 캠퍼스 3기 입니다.
