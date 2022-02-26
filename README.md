@@ -17,7 +17,7 @@
 | EXPLORATION_11 | 주식 가격 예측하기                        | 2022.02.10 | Time Series Data, ARIMA             |
 | EXPLORATION_12 | 트랜스포머로 만드는 대화형 챗봇           | 2022.02.15 | Chatbot, RNN, Attention, Transfomer |
 | EXPLORATION_13 | 인간보다 퀴즈를 잘푸는 인공지능           | 2022.02.17 | RNN, LSTM, BERT                     |
-| EXPLORATION_14 | 아이유팬이 좋아할 만한 다른 아티스트 찾기 | 2022.02.22 | Recommendation systems              |
+| EXPLORATION_14 | 다른 아티스트 찾기 추천해주기            | 2022.02.22 | Recommendation systems              |
 | EXPLORATION_15 | 문자를 읽을 수 있는 딥러닝                | 2022.02.24 | CNN, OCR                            |
 | EXPLORATION_16 |                                           | 2022.03.07 |                                     |
 | EXPLORATION_17 |                                           | 2022.03.14 |                                     |
