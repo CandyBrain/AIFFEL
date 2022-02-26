@@ -7,7 +7,7 @@ Fundamental, Exploration, Going deeper의 메인 과정으로 구성됨
 |                | Project Name                              | Date       | Experience                          |
 | -------------- | ----------------------------------------- | ---------- | ----------------------------------- |
 | EXPLORATION_01 | [가위바위보 분류기](https://github.com/CandyBrain/AIFFEL/tree/master/EX01_Rock_Scissor_Paper)                         | 2022.01.05 | Image Classification, CNN           |
-| EXPLORATION_02 | Iris 품종 분류하기                        | 2022.01.06 | scikit-learn,  ML                   |
+| EXPLORATION_02 | [Iris 품종 분류하기](https://github.com/CandyBrain/AIFFEL/tree/master/EX02_IRIS)                        | 2022.01.06 | scikit-learn,  ML                   |
 | EXPLORATION_03 | 카메라 스티커 앱 만들기                   | 2022.01.11 | Face Detection                      |
 | EXPLORATION_04 | 작사가 인공지능 만들기                    | 2022.01.13 | Sequence Data, RNN                  |
 | EXPLORATION_05 | 캐글 경진대회 따라해보기                  | 2022.01.18 | Kaggle, Competition                 |
