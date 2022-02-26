@@ -1,4 +1,4 @@
-## AIFFEL
+# AIFFEL
 - 2021.12.27 ~ 2022.06.10
 
 Fundamental, Exploration, Going deeper의 메인 과정으로 구성됨
