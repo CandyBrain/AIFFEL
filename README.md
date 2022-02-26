@@ -1,9 +1,10 @@
 ## AIFFEL
 - 2021.12.27 ~ 2022.06.10
 
+Fundamental, Exploration, Going deeper의 메인 과정으로 구성됨
 
 
-## EXPLORATION
+### EXPLORATION
 
 |                | Project Name                              | Date       | Experience                          |
 | -------------- | ----------------------------------------- | ---------- | ----------------------------------- |
@@ -27,10 +28,10 @@
 
 
 
-## DATATHON
+### DATATHON
 - 2022.03.08 ~ 03.11
 
 
-## GOING DEEPER
+### GOING DEEPER
 - 2022.03.15 ~
 
