@@ -24,3 +24,10 @@
 | EXPLORATION_15 | 문자를 읽을 수 있는 딥러닝                | 2022.02.24 | CNN, OCR                            |
 | EXPLORATION_16 |                                           | 2022.03.07 |                                     |
 | EXPLORATION_17 |                                           | 2022.03.14 |                                     |
+
+
+
+## DATATHON
+
+
+## GOING DEEPER
