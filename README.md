@@ -30,6 +30,10 @@
 ### DATATHON
 - 2022.03.08 ~ 03.11
 
+|                | Project Name                              | Date       | Experience                          |
+| -------------- | ----------------------------------------- | ---------- | ----------------------------------- |
+  | DATATHON | [Keggle Covid19 데이터 분석 및 시각화](https://github.com/CandyBrain/AIFFEL/tree/master/EX01_Rock_Scissor_Paper)                         | 2022.03.11 | EDA, DS           |
+
 
 ### GOING DEEPER
 - 2022.03.15 ~
