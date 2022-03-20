@@ -22,8 +22,8 @@
 | EXPLORATION_13 | [인간보다 퀴즈를 잘푸는 인공지능](https://github.com/CandyBrain/AIFFEL/tree/master/EX13_Quiz_Retry)           | 2022.02.17 | RNN, LSTM, BERT                     |
 | EXPLORATION_14 | [다른 아티스트 찾기 추천해주기](https://github.com/CandyBrain/AIFFEL/tree/master/EX14_Recommender_System_IU)            | 2022.02.22 | Recommendation systems              |
 | EXPLORATION_15 | [문자를 읽을 수 있는 딥러닝](https://github.com/CandyBrain/AIFFEL/tree/master/EX15_OCR)                | 2022.02.24 | CNN, OCR                            |
-| EXPLORATION_16 |                                           | 2022.03.07 |                                     |
-| EXPLORATION_17 |                                           | 2022.03.14 |                                     |
+| EXPLORATION_16 | [다음에 볼 영화 예측하기]                                          | 2022.03.07 | Session-Based Recommentaion                                    |
+| EXPLORATION_17 | [난 스케치를 할 테니 너는 채색을 하거라]                                          | 2022.03.14 | Gan. cGan                                    |
 
 
 
